@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nurullahpolat0
-- 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Android java&Kotlin
+- 👀 I’m interested in Mobile&Web Development
+- 🌱 I’m currently learning java&Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/nurullah-polat-5735971b5/
 
